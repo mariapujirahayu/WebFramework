@@ -1,0 +1,43 @@
+.text-p{
+    color: red;
+}
+
+.judul h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.subjudul h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+
+.formlogin{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+}
+
+.btnsubmit{
+    margin-top: 30px;
+}
+
+.checkbox{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.btncancel{
+    margin-top: 35px;
+    text-align: center;
+}
+
+.form-group label{
+    font-weight: bold;
+}
